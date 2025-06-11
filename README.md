@@ -1,1 +1,43 @@
 # patlovenick
+<html>
+
+
+
+<head>
+<meta charset="file:///C:/Users/chrrr/OneDrive/Desktop/HTML/iloveunick.html?">
+    <title>What the hell...</title>
+</head>
+
+</body>
+    
+    <h1 style="color: blueviolet;"font-size: larger;
+    ">Hii Nick Suphat</h1>
+    <h1><center>ก๊อกๆ มีไรจะบอก</center></h1>
+    <h2><center>I LOVE U 3000</center></h2>
+    <h1><center>ตอบกลับด้วยนะ</center></h1>
+<form onsubmit="openYouTube(); return false;">
+       
+    <input type="text">
+    <button type="submit">ตอบกลับความน่ารักตรงนี้</button>
+
+</from>
+<script>
+    function openYouTube() {
+
+        window.open("https://www.youtube.com/watch?v=GZHkKLXrqNE","_blank");
+    }
+
+
+</script>
+
+
+    <body background="https://images.pexels.com/photos/114979/pexels-photo-114979.jpeg?cs=srgb&dl=pexels-veeterzy-114979.jpg&fm=jpg">
+
+    </body>
+
+
+</body>
+
+
+
+</html>
